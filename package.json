@@ -1,0 +1,14 @@
+{
+  "name": "hw-10-frontend4",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}

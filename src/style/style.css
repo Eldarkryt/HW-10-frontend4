@@ -1,0 +1,36 @@
+.box1{
+width: 200px;
+height: 200px;
+background-color: red;
+transition-duration: 300ms;
+}
+
+.box1Big{
+width: 400px;
+height: 400px;
+background-color: red;
+}
+.box2{
+width: 200px;
+height: 200px;
+background-color: green;
+transition-duration: 300ms;
+}
+
+.box2Long{
+width: 200px;
+height: 600px;
+background-color: green;
+}
+.box3{
+width: 200px;
+height: 200px;
+background-color: blue;
+transition-duration: 300ms;
+}
+
+.box3Wide{
+width: 600px;
+height: 200px;
+background-color: blue;
+}
