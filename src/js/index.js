@@ -1,13 +1,14 @@
-// let time = 1;
+let time = 1;
 
-// const intervalId = setInterval(() => {
-//   time++;
-//     console.log('Сповіщення про роботу таймера');
-//     if (time === 5) {
-//         clearInterval(intervalId)
-//     }
+const intervalId = setInterval(() => {
+  time++;
+    console.log('Сповіщення про роботу таймера');
+    if (time === 5) {
+      clearInterval(intervalId)
+      console.log("Все всі 5 сповіщень!")
+    }
 
-// }, 1000);
+}, 1000);
 
 const box1 = document.querySelector('.box1');
 const box2 = document.querySelector('.box2');
